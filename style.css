@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding:0;
+}
+.section-one{
+    background-color: black;
+    padding-bottom: 5px;
+    
+}
+.section-one__heading{
+    padding:5px;
+    color:white;
+    text-align: center;
+    
+}
+.section-one__desc{
+    padding:5px;
+    color: gray;
+    text-align: center;
+    
+}
+.container_one{
+    padding-top: 5px;
+    border:solid 1px black;
+    height:230px;
+    width:150px;
+    margin:5px;
+    display: inline-block;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    margin-top: 20px;
+}
+.contact{
+    background-color: black;
+    color: antiquewhite;
+    margin-top:20px;
+    padding:10px;
+    text-align: center;
+}
+.send{
+    margin-top: 10px;
+    
+    padding-left:100px;
+    padding-right: 100px;
+    text-align: center;
+    background-color: yellow;
+}
+.table{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
